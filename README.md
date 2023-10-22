@@ -1,4 +1,4 @@
-CI-CD pipeline
+CI-CD pipeline-hello
 This Jenkins pipeline automates the continuous integration and deployment of a Java web application. 
 It starts by checking out the source code from a GitHub repository, then proceeds to build the application using Maven. 
 The code is analyzed using SonarQube for quality assurance. 
